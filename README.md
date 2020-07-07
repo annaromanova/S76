@@ -1,2 +1,2 @@
 # S76
-HES S76 drafts
+DGMD S-76 Final Project
